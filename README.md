@@ -24,9 +24,11 @@ Finally, run lineset to look through the training data file and converge on the 
 
 Example output:
 
+```
 Current nextw 7.27246e-08 0.00120735
 Current weights 0.519999 0.261534
 [33] MSE 7.84479e-07
+```
 
 This shows that the weights were found to be at an accurate level, after about 33 sweeps through the data.
 
